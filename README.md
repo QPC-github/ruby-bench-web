@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ruby-bench/ruby-bench-web.svg?branch=master)](https://travis-ci.org/ruby-bench/ruby-bench-web)
+[![Build Status](https://travis-ci.org/Shopify/ruby-bench-web.svg?branch=master)](https://travis-ci.org/Shopify/ruby-bench-web)
 
 https://rubybench.org
 
