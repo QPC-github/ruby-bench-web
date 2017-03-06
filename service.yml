@@ -3,3 +3,4 @@ owners:
 - jerryliu55
 classification: tier4
 url: https://rubybench.shopify.io
+create_issues: false
