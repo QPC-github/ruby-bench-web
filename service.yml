@@ -1,6 +1,6 @@
 director: dneufeld
 owners:
-- jerryliu55
+- Shopify/dev-infra
 classification: tier4
 url: https://rubybench.shopify.io
 create_issues: false
