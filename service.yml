@@ -1,5 +1,3 @@
-owners:
-- Shopify/dev-infra
 classification: tier4
 url: https://rubybench.shopify.io
 create_issues: false
